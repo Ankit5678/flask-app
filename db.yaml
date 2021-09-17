@@ -2,5 +2,5 @@ mysql_host: 'database-1.clqq0d6swju1.us-east-1.rds.amazonaws.com'
 mysql_port: '3306'
 mysql_user: 'admin'
 # Enter your password in field below
-mysql_password: 'admin3306'
+mysql_password: '******'
 mysql_db: 'flaskapp'
